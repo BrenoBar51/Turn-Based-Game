@@ -1,0 +1,14 @@
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\bin\Debug\net7.0\CSharpGameWhile.exe
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\bin\Debug\net7.0\CSharpGameWhile.deps.json
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\bin\Debug\net7.0\CSharpGameWhile.runtimeconfig.json
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\bin\Debug\net7.0\CSharpGameWhile.dll
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\bin\Debug\net7.0\CSharpGameWhile.pdb
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\CSharpGameWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\CSharpGameWhile.AssemblyInfoInputs.cache
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\CSharpGameWhile.AssemblyInfo.cs
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\CSharpGameWhile.csproj.CoreCompileInputs.cache
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\CSharpGameWhile.dll
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\refint\CSharpGameWhile.dll
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\CSharpGameWhile.pdb
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\CSharpGameWhile.genruntimeconfig.cache
+C:\Users\breno\Documents\Vscode\CSharp\CSharpGameWhile\obj\Debug\net7.0\ref\CSharpGameWhile.dll
